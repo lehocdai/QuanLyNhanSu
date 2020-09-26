@@ -82,5 +82,17 @@ namespace QuanLyNhanSu
                }
                else PassWord.PasswordChar = '*';
           }
-     }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DangNhap_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'nhanSuDataSet.NHANVIEN' table. You can move, or remove it, as needed.
+            this.nHANVIENTableAdapter.Fill(this.nhanSuDataSet.NHANVIEN);
+
+        }
+    }
 }
