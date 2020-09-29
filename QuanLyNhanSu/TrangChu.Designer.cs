@@ -271,7 +271,7 @@
             // 
             // pn_trangchu
             // 
-            this.pn_trangchu.BackgroundImage = global::QuanLyNhanSu.Properties.Resources.tuyen_dung_doanhnhansaigon_1508451442;
+            this.pn_trangchu.BackgroundImage = global::QuanLyNhanSu.Properties.Resources.tuyen_dung_doanhnhansaigon_15084514421;
             this.pn_trangchu.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pn_trangchu.Controls.Add(this.pn_nv);
             this.pn_trangchu.Controls.Add(this.pn_bp);

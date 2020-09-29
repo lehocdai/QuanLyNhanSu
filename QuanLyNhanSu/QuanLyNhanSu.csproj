@@ -175,5 +175,23 @@
   <ItemGroup>
     <None Include="Resources\employee.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tuyen-dung-doanhnhansaigon-1508451442.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bin-icon-cancel-icon-close-icon-cross-icon-delete-icon-exit-icon-minus-icon-remove-icon-trash-icon-red-png-clip-art.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-User_font_awesome.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_234288.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-eye-icon-png-image_925911.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
