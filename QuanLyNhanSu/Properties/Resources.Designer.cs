@@ -73,10 +73,31 @@ namespace QuanLyNhanSu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1200px_User_font_awesome1 {
+            get {
+                object obj = ResourceManager.GetObject("1200px-User_font_awesome1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bin_icon_cancel_icon_close_icon_cross_icon_delete_icon_exit_icon_minus_icon_remove_icon_trash_icon_red_png_clip_art {
             get {
                 object obj = ResourceManager.GetObject("bin-icon-cancel-icon-close-icon-cross-icon-delete-icon-exit-icon-minus-icon-remov" +
                         "e-icon-trash-icon-red-png-clip-art", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bin_icon_cancel_icon_close_icon_cross_icon_delete_icon_exit_icon_minus_icon_remove_icon_trash_icon_red_png_clip_art1 {
+            get {
+                object obj = ResourceManager.GetObject("bin-icon-cancel-icon-close-icon-cross-icon-delete-icon-exit-icon-minus-icon-remov" +
+                        "e-icon-trash-icon-red-png-clip-art1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -194,6 +215,16 @@ namespace QuanLyNhanSu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap img_2342881 {
+            get {
+                object obj = ResourceManager.GetObject("img_2342881", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pngtree_employee_identity_card_icon_vector_in_glyph_style_icon_set_png_image_876982 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-employee-identity-card-icon-vector-in-glyph-style-icon-set-png-image_8769" +
@@ -236,6 +267,16 @@ namespace QuanLyNhanSu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap pngtree_vector_eye_icon_png_image_9259111 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-vector-eye-icon-png-image_9259111", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap tuyen_dung_doanhnhansaigon_1508451442 {
             get {
                 object obj = ResourceManager.GetObject("tuyen-dung-doanhnhansaigon-1508451442", resourceCulture);
@@ -246,9 +287,29 @@ namespace QuanLyNhanSu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap tuyen_dung_doanhnhansaigon_15084514421 {
+            get {
+                object obj = ResourceManager.GetObject("tuyen-dung-doanhnhansaigon-15084514421", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap user {
             get {
                 object obj = ResourceManager.GetObject("user", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user1 {
+            get {
+                object obj = ResourceManager.GetObject("user1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
